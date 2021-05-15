@@ -16,13 +16,13 @@ The purpose of the analysis is the school board has notified Maria and her super
 
 
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Replacing the ninth graders’ math and reading scores does not affect Thomas High School’s performance relative to the other schools. Thomas High School still sits as the number two performing school when looking at the overall passing percentage. The reading and math passing percentages were not hampered 
+Replacing the ninth graders’ math and reading scores does not affect Thomas High School’s performance relative to the other schools. Thomas High School still sits as the number two performing school when looking at the overall passing percentage. The reading and math passing percentages were not hampered. 
 
-#### Replacing the ninth-grade scores affect the following at Thomas High School:
-* Math and reading scores by grade --> 
-* Scores by school spending -->
-* Scores by school size -->
-* Scores by school type -->
+#### Replacing the ninth-grade scores affected the following:
+* Math and reading scores by grade --> THS math and reading scores were recorded as "NaN".
+* Scores by school spending --> $630-644 bin came down slightly across the board.
+* Scores by school size --> Medium (1000-2000) size came down slightly across the board.
+* Scores by school type --> Charter schools came down slightly across the board.
 
 Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 1. % Overall Passing
